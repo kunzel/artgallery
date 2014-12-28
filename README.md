@@ -1,0 +1,4 @@
+artgallery
+==========
+
+Art gallery algorithm
